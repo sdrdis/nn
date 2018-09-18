@@ -1,0 +1,5 @@
+keras-2.2.2
+tensorflow-1.10.0
+numpy
+scikit-image
+scipy
